@@ -1,0 +1,7 @@
+
+matplotlib==3.10.3
+narwhals==1.47.1
+numpy==1.26.4
+pandas==2.3.1
+plotly==6.2.0
+
